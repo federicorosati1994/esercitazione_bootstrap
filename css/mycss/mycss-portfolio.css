@@ -1,0 +1,134 @@
+.container-fluid {
+	padding: 0;
+}
+
+.col-xs-6 {
+	padding: 0;
+}
+
+.container-fluid .fotofoto {
+	padding: 0;
+}
+
+#skills {
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+a, a:hover, a:focus, a:active, a.active{
+	text-decoration: none;
+}
+
+#gallery {
+	margin-bottom: 60px;
+}
+
+h1, h2, h3, .jumbotron h1 {
+	color: #28B2C4;
+}
+
+.foto-header {
+	height: 500px;
+	background-image: url(https://scontent-frt3-1.xx.fbcdn.net/hphotos-xtp1/v/t1.0-9/10412023_10205718780922157_7128129641102797611_n.jpg?oh=f3e93f3df6f370b8e499872d45fee688&oe=56DA53FF);
+	background-position: top center;
+	background-size: cover;
+}
+
+#aboutme {
+	margin-top: 20px;
+}
+
+.container-fluid .jumbotron {
+	height: 500px;
+	margin-bottom: 0;
+	padding: 20%;
+	border-radius: 0;
+}
+
+.jumbotron h1 {
+	font-size: 36px;
+}
+
+.navbar {
+	margin-bottom: 0;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.container-fluid .aboutmepadding {
+	padding: 30px;
+}
+
+a {
+	color: #777;
+}
+
+a:hover {
+	color: #28B2C4;
+	text-decoration: none;
+}
+
+hr.star-primary:after {
+	color: #fff;
+	text-shadow:
+		-1px -1px 0 #28B2C4,
+		1px -1px 0 #28B2C4,
+		-1px 1px 0 #28B2C4,
+		1px 1px 0 #28B2C4;
+	background-color: white;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+	color: #28B2C4;
+}
+
+.btn {
+	color: #28B2C4;
+}
+
+.btn-default:hover{
+	color: #28B2C4;
+	border-color: #28B2C4;
+	background-color: white;
+}
+
+.formpadding {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.inviaposition {
+	margin-left: -42px;
+	margin-top: 15px; 
+}
+
+.thumbnail {
+	padding: 0;
+	margin: 0;
+	border-radius: 0;
+}
+
+.progress {
+	border-radius: 0;
+}
+
+.thumbnail .caption {
+	padding: 10px;
+}
+
+.contactme {
+	margin-top: 20px;
+}
+
+.navbar-bottom {
+	margin-bottom: 0;
+	margin-top: 40px;
+}
